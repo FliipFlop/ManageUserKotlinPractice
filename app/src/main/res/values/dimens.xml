@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens_layout_padding">16dp</dimen>
+    <dimen name="dimens_edit_text_padding">5dp</dimen>
+    <dimen name="dimens_margin_top">10dp</dimen>
+    <dimen name="dimens_user_list_padding">5dp</dimen>
+
+    <dimen name="dimens_username_text_size">16sp</dimen>\
+    <dimen name="dimens_username_text_clear_all_size">20sp</dimen>
+    <dimen name="dimens_username_text_delete_size">30sp</dimen>
+</resources>

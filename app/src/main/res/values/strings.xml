@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ManageUserKotlinPractice</string>
+    <string name="text_username_hint">Username</string>
+    <string name="text_add">ADD</string>
+    <string name="text_recent">Recent</string>
+    <string name="text_clear_all">Clear All</string>
+    <string name="text_delete_username">✖</string>
 </resources>
